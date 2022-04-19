@@ -1,4 +1,4 @@
-### <h1 align="center">Hey 👋, I'm Kalyan!</h1>
+### <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kalyan!</h1>
 - 🎓 I'm currently pursuing my B. Tech final year.
 - 📝 I'm currently learning Java.
 
