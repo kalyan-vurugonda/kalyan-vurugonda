@@ -1,4 +1,4 @@
-# <h1 align="center">Hey 👋, I'm Kalyan!</h1>
+### <h1 align="center">Hey 👋, I'm Kalyan!</h1>
 - 🎓 I'm currently pursuing my B. Tech final year.
 - 📝 I'm currently learning Java.
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ### Hey 👋, I'm Kalyan!
+- Hey 👋, I'm Kalyan!
 -->
