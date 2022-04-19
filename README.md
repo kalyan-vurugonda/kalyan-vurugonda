@@ -1,6 +1,10 @@
-### <h1 align="center">Hey 👋, I'm Kalyan!</h1>
+# <h1 align="center">Hey 👋, I'm Kalyan!</h1>
 - 🎓 I'm currently pursuing my B. Tech final year.
 - 📝 I'm currently learning Java.
+
+## 🤝🏻Connect with me
+[LinkedIn](https://www.linkedin.com/in/vurugondakalyan/) [Twitter](https://twitter.com/VurugondaKalyan) [Instagram](https://www.instagram.com/kalyan_vurugonda/)
+
 
 <!--
 **kalyan-vurugonda/kalyan-vurugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!-- ### Hey 👋, I'm Kalyan!
+- ### Hey 👋, I'm Kalyan!
 -->
