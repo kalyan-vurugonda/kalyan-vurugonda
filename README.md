@@ -3,14 +3,17 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kalyan Vurugonda!</h1>
 
-- 🔭 I’m currently working on DevOps and Open Source
+<h2>About me</h2>
+
+- 😄 Pronouns: He/Him
+- 🤠 DevOps and Open Source Enthusiast
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: vurugondakalyan811@gmail.com
 
 
-<h2 align="center">🤝 Connect with me</h2>
-<div align="center">  
+<h2 align="left">🤝Connect with me</h2>
+<div align="left">  
  <a href="https://www.linkedin.com/in/vurugondakalyan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -29,8 +32,9 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on DevOps and Open Source
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 - Hey 👋, I'm Kalyan!
 
