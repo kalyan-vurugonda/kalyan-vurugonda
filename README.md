@@ -1,21 +1,38 @@
-### <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kalyan!</h1>
+<!-- **kalyan-vurugonda/kalyan-vurugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-## 🤝🏻Connect with me
-[LinkedIn](https://www.linkedin.com/in/vurugondakalyan/) [Twitter](https://twitter.com/VurugondaKalyan) [Instagram](https://www.instagram.com/kalyan_vurugonda/)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kalyan Vurugonda!</h1>
+
+- 🔭 I’m currently working on DevOps and Open Source
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on GitHub
+- 📫 How to reach me: vurugondakalyan811@gmail.com
+
+
+<h2 align="center">🤝 Connect with me</h2>
+<div align="center">  
+ <a href="https://www.linkedin.com/in/vurugondakalyan/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/VurugondaKalyan" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/kalyan_vurugonda/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a> 
+</div>  
+
+
 
 
 <!--
-**kalyan-vurugonda/kalyan-vurugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Hey 👋, I'm Kalyan!
+
+[LinkedIn](https://www.linkedin.com/in/vurugondakalyan/) [Twitter](https://twitter.com/VurugondaKalyan) [Instagram](https://www.instagram.com/kalyan_vurugonda
 -->
