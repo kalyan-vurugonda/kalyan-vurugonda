@@ -25,6 +25,11 @@
   </a> 
 </div>  
 
+<h2>📈 GitHub Stats</h2> 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalyan-vurugonda&show_icons=true&count_private=true&theme=dark"width="500"></a>
+</p>
+
 
 
 
