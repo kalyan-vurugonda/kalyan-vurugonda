@@ -27,7 +27,7 @@
 </div>  
 
 
-<h2>🔧 Tools & Technologies</h2>
+<h2>🔧Tools & Technologies</h2>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +40,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-<h2>📈 GitHub Stats</h2> 
+<h2>📈GitHub Stats</h2> 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kalyan-vurugonda&show_icons=true&count_private=true&theme=dark"width="450"></a>
 </p>
