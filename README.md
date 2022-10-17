@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/Him
 - 🤠 DevOps and Open Source Enthusiast
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Java & DevOps
 - 🎓 I’m a B.Tech Undergraduate Student
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: vurugondakalyan811@gmail.com
