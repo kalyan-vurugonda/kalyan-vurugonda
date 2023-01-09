@@ -1,20 +1,22 @@
 <!-- **kalyan-vurugonda/kalyan-vurugonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kalyan Vurugonda!</h1>
+<h1 align="center">Hey 👋🏻, I'm Kalyan Vurugonda!</h1>
+<h2 align="center">Web Dev | DevOps & Open Source Enthusiast | Communities ✨</h2>
 
-<h2>About me</h2>
+![Twitter Header 1](https://user-images.githubusercontent.com/69109920/211319958-24a4ea77-cd12-4367-a5e6-d8c9c8b31976.png)
+
+<h2>👨🏻‍💻 About me</h2>
 
 - 😄 Pronouns: He/Him
-- 🤠 DevOps and Open Source Enthusiast
-- 🌱 I’m currently learning Java & DevOps
+- 🌱 I’m currently learning Web Dev & DevOps
 - 🎓 I’m a B.Tech Undergraduate Student
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me : vurugondakalyan811@gmail.com
 
 
 <h2 align="left">🤝 Connect with me</h2>
-<div align="left">  
+<div align="left"> 
  <a href="https://www.linkedin.com/in/vurugondakalyan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -27,7 +29,7 @@
 </div>  
 
 
-<h2>🔧 Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -63,11 +65,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working 
 - 💬 Ask me about ...
+- 🤠 Web Dev DevOps and Open Source Enthusiast
 
 - ⚡ Fun fact: ...
 - Hey 👋, I'm Kalyan!
 
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [LinkedIn](https://www.linkedin.com/in/vurugondakalyan/) [Twitter](https://twitter.com/VurugondaKalyan) [Instagram](https://www.instagram.com/kalyan_vurugonda
 -->
